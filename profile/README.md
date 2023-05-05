@@ -1,29 +1,25 @@
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
-GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
+The UXUY Protocol is the decentralized social graph.
 
-### Quick Start
+The UXUY protocol will solve this problem, helping users to own their social data through blockchain technology, and make it an asset.
 
-* [Discussions & Product Feedback](https://github.com/orgs/community/discussions)
-* [Join Global Campus](https://education.github.com/benefits?type=student) 
-* [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [Student Developer Pack Application & FAQs](https://github.com/orgs/community/discussions/17814)
+UXUY is committed to becoming the infrastructure of the next generation of large-scale Web3 social applications, UXUY is a decentralized social graph protocol with network effects. 
+
+The UXUY protocol uses "UXUY Token" to record users' contributions to the network constructed by the UXUY protocol. 
+UXUY Token adopts the POL (Proof of Link)
+
+### Whitepaper
+
+* [Litepaper](https://docs.uxuy.io/uxuy-labs-api/guide/white-paper)
+
 
 ### Documentation
 
 * [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 * [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
 
-### Other Ways to Participate
-
-* [GitHub Stars Program](https://stars.github.com/program/)
-* [GitHub Events](https://github.com/events)
-* [GitHub Blog](https://github.blog/)
-* [The ReadME Project & Podcast](https://github.com/readme)
-* [GitHub YouTube Channel](https://www.youtube.com/github)
-
-#### Quick note on 3rd party integrations
-> _Due to an overwhelming number of suspicious requests from community members for 3rd party apps and integrations to this org, we've turned off "Allow integration requests from outside collaborators"._
 
 #### Quick note on temporary interaction limits
+
 In an effort to reduce spammy behavior, we are instituting temporary interaction limits to bar accounts less than 24hrs-old from participating in the `github.com/community` Discussions space. This experiment is running from Feb 22, 2023 to March 22, 2023.

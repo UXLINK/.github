@@ -1,4 +1,4 @@
-![image](blob:https://web.telegram.org/df9f5e02-acf6-418e-9aa4-689e282f6ae8)
+![image](https://github.com/UXUYLabs/v1-JSSDK/blob/v1-0.1.0/example/vue/src/assets/WechatIMG265.jpg)
 
 The UXUY protocol is the decentralized social graph.
 

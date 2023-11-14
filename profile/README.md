@@ -1,4 +1,4 @@
-![image](https://github.com/UXUYLabs/v1-JSSDK/blob/v1-0.1.0/example/vue/src/assets/WechatIMG265.jpg)
+![image](https://uxlink.io/public-banner.jpeg)
 
 The UXLINK protocol is the decentralized social graph.
 
@@ -15,7 +15,7 @@ UXLINK protocol comes with simple JSSDK that can be integrated in multiple ways 
 
 ## 📖 Documentation
 
-Checkout the official [UXUY Protocol Documentation](https://docs.uxuy.io) and [SDK Reference](https://docs.uxlink.io/uxuy-labs-api/guide/js-sdk) to get started!
+Checkout the official [UXLINK Protocol Documentation](https://docs.uxlink.io) and [SDK Reference](https://docs.uxlink.io/uxuy-labs-api/guide/js-sdk) to get started!
 
 ### Whitepaper
 

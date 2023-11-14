@@ -1,8 +1,8 @@
 ![image](https://github.com/UXUYLabs/v1-JSSDK/blob/v1-0.1.0/example/vue/src/assets/WechatIMG265.jpg)
 
-The UXUY protocol is the decentralized social graph.
+The UXLINK protocol is the decentralized social graph.
 
-The UXUY protocol will solve this problem, helping users to own their social data through blockchain technology, and make it an asset.
+The UXLINK protocol will solve this problem, helping users to own their social data through blockchain technology, and make it an asset.
 
 UXUY is committed to becoming the infrastructure of the next generation of large-scale Web3 social applications, UXUY is a decentralized social graph protocol with network effects. 
 

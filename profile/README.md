@@ -4,14 +4,14 @@ The UXLINK protocol is the decentralized social graph.
 
 The UXLINK protocol will solve this problem, helping users to own their social data through blockchain technology, and make it an asset.
 
-UXUY is committed to becoming the infrastructure of the next generation of large-scale Web3 social applications, UXUY is a decentralized social graph protocol with network effects. 
+UXLINK is committed to becoming the infrastructure of the next generation of large-scale Web3 social applications, UXLINK is a decentralized social graph protocol with network effects. 
 
-The UXLINK protocol uses "UXUY Token" to record users' contributions to the network constructed by the UXUY protocol. 
-UXUY Token adopts the POL (Proof of Link)
+The UXLINK protocol uses "UXUY Token" to record users' contributions to the network constructed by the UXLINK protocol. 
+UXLINK Token adopts the POL (Proof of Link)
 
 ## ❓ How can I use UXLINK Protocol?
 
-UXUY protocol comes with simple JSSDK that can be integrated in multiple ways to provide the best experience for your users. 
+UXLINK protocol comes with simple JSSDK that can be integrated in multiple ways to provide the best experience for your users. 
 
 ## 📖 Documentation
 

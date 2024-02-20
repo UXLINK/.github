@@ -1,4 +1,4 @@
-![image](https://uxuy.hk.ufileos.com/uxuynetworkbanner.jpg?iopstyle=width800)
+![image](https://uxuy.hk.ufileos.com/top-banner.d4dbbd89.png?iopstyle=width800)
 
 The UXLINK protocol is the decentralized social graph.
 

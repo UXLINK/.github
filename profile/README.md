@@ -1,10 +1,10 @@
 ![image](https://uxuy.hk.ufileos.com/top-banner.d4dbbd89.png?iopstyle=width800)
 
-UXLINK: A Decentralized Social Graph for Developers
+## UXLINK: A Decentralized Social Graph for Developers
 
 UXLINK is a decentralized social graph protocol built for developers on the Arbitrum chain. It aims to provide secure, cost-effective, and multi-chain infrastructure for building the next generation of large-scale Web3 social applications.
 
-Key Features:
+## Key Features:
 
 Decentralized: UXLINK eliminates the need for a central authority, empowering developers and users with greater control and privacy.
 
@@ -18,7 +18,7 @@ Secure: Leverages the security of the Arbitrum chain for reliable and trustworth
 
 Cost-Effective: Offers competitive pricing for developers to build and scale their applications.
 
-Benefits for Developers:
+## Benefits for Developers:
 
 Focus on Innovation: Spend less time on infrastructure and more time on building groundbreaking applications.
 

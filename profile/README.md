@@ -7,24 +7,30 @@ UXLINK is a decentralized social graph protocol built for developers on the Arbi
 Key Features:
 
 Decentralized: UXLINK eliminates the need for a central authority, empowering developers and users with greater control and privacy.
+
 Network Effects: As more applications and users join the network, UXLINK becomes more valuable and powerful for everyone.
+
 Developer-Friendly: Provides APIs and SDKs to streamline development and integration into social applications.
+
 Multichain: Currently on Arbitrum, with plans to expand to other chains for improved accessibility and reach.
+
 Secure: Leverages the security of the Arbitrum chain for reliable and trustworthy operations.
+
 Cost-Effective: Offers competitive pricing for developers to build and scale their applications.
 
 Benefits for Developers:
 
 Focus on Innovation: Spend less time on infrastructure and more time on building groundbreaking applications.
+
 Scalability: UXLINK's network effects and multichain support enable applications to grow seamlessly.
+
 Security: Secure foundation allows developers to focus on user experience and functionality.
+
 Cost Savings: Efficient infrastructure reduces development costs and improves profitability.
+
 
 Overall, UXLINK offers a promising solution for developers seeking to build the next generation of social applications in the Web3 space.
 
-
-The UXLINK protocol uses "UXUY Token" to record users' contributions to the network constructed by the UXLINK protocol. 
-UXLINK Token adopts the POL (Proof of Link)
 
 ## ❓ How can I use UXLINK Protocol?
 

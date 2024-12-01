@@ -33,7 +33,7 @@ Enabling users to have a single account across every chain and pay for gas with 
 # Learn More
 👩‍💻 Checkout our [developer docs](https://docs.uxlink.io/layer) and start **BUIDL**!
 
-🧙 Learn more from our [website](https://uxlink.io)
+🧙 Learn more from our [website](https://uxlink.io/developer)
 
 # Whitepaper
 * [Litepaper](https://docs.uxlink.io/layer/whitepaper/white-paper)
